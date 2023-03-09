@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyCityApp</string>
+    <string name="paprocany_desc">Paprocany to niezwykle malowniczy zakątek Tychów położony na skraju Puszczy Pszczyńskiej. Działa tu ośrodek wypoczynkowy z wypożyczalnią sprzętu pływającego, boiskami do siatkówki i koszykówki. Tuż obok ulokowano atrakcje dla najmłodszych: kolorowy statek Santa Maria oraz wodny plac zabaw. Dużą popularnością cieszą się również organizowane na terenie ośrodka sportowo-rekreacyjne imprezy plenerowe i festyny. W lasach wokół jeziora wyznaczono liczne ścieżki, które tyszanie przemierzają zarówno pieszo, jak i na rowerach. </string>
+    <string name="park_niedzwiadkow_desc">Skwer utworzony w miejscu zwanym do 1950 r. olszynami, przy drodze do Paprocan. Tu przed laty rodowici tyszanie rozpalali ogniska sobótkowe w Zielone Świątki, było stąd widać podobne ogniska na Klemensowej Górce w Lędzinach. Południowym obrzeżem parku jest aleja Niepodległości, jej starodrzew to pozostałość po historycznej drodze łączącej kiedyś Tychy i Paprocany.</string>
+    <string name="park_gorniczy_desc">Pierwszy park Nowych Tychów, powstały przy pierwszym nowym osiedlu. Obecnie znajduje się tam duży plac zabaw dla dzieci, który cieszy się ogromnym zainteresowaniem.</string>
+    <string name="park_polnocny_desc">Park jest pozostałością dawnej puszczy pszczyńskiej. Na jego terenie znajdują się siedliska m.in. jeży, nietoperzy, kilku gatunków traszek i żab a także wielu gatunków ptaktów. W parku znajdują się w nim trzy stawy hodowlane, nad którymi lubią wypoczywać tyszanie. </string>
+    <string name="park_poludniowy_desc">Położony na terenie pomiędzy al. Marszałka Piłsudskiego i ulicami: ks. Tischnera, Sikorskiego i Uczniowską.</string>
+    <string name="suble_desc">Jeden z nielicznych parków w południowej części miasta. Piękne alejki zachęcają do spacerowania i spędzania wolnego czasu na świeżym powietrzu.</string>
+
+    <string name="paprocany_name">Paprocany</string>
+    <string name="park_gorniczy_name">Park Górniczy</string>
+    <string name="park_niedzwiadkow_name">Park Niedźwiadków</string>
+    <string name="park_polnocny_name">Park Północny</string>
+    <string name="park_poludniowy_name">Park Południowy</string>
+    <string name="suble_name">Suble</string>
+
+    <string name="park_name">Parks</string>
+    <string name="restaurant_name">Restaurants</string>
+
+    <string name="avanti_desc">Restauracja w klimacie loft. Nasze dania opierają się na wyselekcjonowanych produktach najlepszej jakości. Gotujemy smacznie i zdrowo.Nasza restauracja powstała z miłości do jedzenia. Pasja gotowania i jedzenia to idealny duet. Zapraszamy Państwa na fantastyczną przygodę smaku i zapachu. </string>
+    <string name="bialy_obrus_desc">BIAŁY OBRUS to idealne miejsce, gdzie można świętować swoje urodziny, wesele i wiele innych uroczystości rodzinnych. Obiekt przystosowany jest do organizacji wszelkiego rodzaju spotkań biznesowych, szkoleń, wigilii firmowych. Świadczymy również usługi cateringowe oraz dania na wynos.  </string>
+    <string name="dom_bawarski_desc">Dom Bawarski</string>
+    <string name="stara_poczta_desc">Stara Poczta usytuowana w pobliżu dawnego centrum miasta, przy Rynku starych Tychów, z dala od zgiełku ruchliwych ulic stwarza bardzo dobre warunki: w nastrojowych wnętrzach z miłą muzyką do spokojnego odpoczynku i konsumpcji.</string>
+
+    <string name="avanti_name">Avanti Steak House</string>
+    <string name="bialy_obrus_name">Biały obrus</string>
+    <string name="dom_bawarski_name">Dom Bawarski to restauracja po Kuchennych Rewolucjach Pani Magdy Gessler.</string>
+    <string name="stara_poczta_name">Hotel Stara Poczta</string>
+
+</resources>
